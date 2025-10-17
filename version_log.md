@@ -42,6 +42,8 @@
 - Added Version Log
 - Added Workflows
 - Added blank.yml
+- Added Discusssions
+- Added Wiki
 - Checked Github Respiratory
 - Checked README
 - Checked Terms of Use
@@ -49,6 +51,8 @@
 - Checked Version Log
 - Checked Workflows
 - Checked blank.yml
+- Checked Discussions
+- Checked Wiki
 - Fixed Github Respiratory not showing
 - Fixed README not showing
 - Fixed Terms of Use not showing
@@ -56,5 +60,7 @@
 - Fixed Version Log not showing
 - Fixed Workflows not showing
 - Fixed blank.yml not showing
+- Fixed Discussions not showing
+- Fixed Wiki not showing
 
 **Thanks a lot for using Smart Bot!**
