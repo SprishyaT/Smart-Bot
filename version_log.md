@@ -40,15 +40,21 @@
 - Added Terms of Use
 - Added Privacy Policy
 - Added Version Log
+- Added Workflows
+- Added blank.yml
 - Checked Github Respiratory
 - Checked README
 - Checked Terms of Use
 - Checked Privacy Policy
 - Checked Version Log
+- Checked Workflows
+- Checked blank.yml
 - Fixed Github Respiratory not showing
 - Fixed README not showing
 - Fixed Terms of Use not showing
 - Fixed Privacy Policy not showing
 - Fixed Version Log not showing
+- Fixed Workflows not showing
+- Fixed blank.yml not showing
 
 **Thanks a lot for using Smart Bot!**
